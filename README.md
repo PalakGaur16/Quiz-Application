@@ -537,11 +537,6 @@ Result Management
 
 ---
 
-## Author
-
-"Taqdees Fatima"
-
-BS Data Science Student
 
 ### Technical Skills
 
